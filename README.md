@@ -3,3 +3,4 @@
 ## Lista obecności
 
 - [Michał Zakrzewski](https://github.com/ZakrzewskiM30/SPJP2025-2026)
+- [Andrzej Walewski](https://github.com/Awalewski01/LabUG.git)
